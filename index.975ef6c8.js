@@ -27093,7 +27093,7 @@ var _stylesCss = require("./styles.css");
     gitHub: "NileshManna",
     instagram: "weird_technologies",
     linkedIn: "nileshmanna",
-    medium: "https://nileshmanna.bio.link/",
+    medium: "",
     twitter: "",
     youTube: ""
 };
