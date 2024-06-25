@@ -27092,7 +27092,7 @@ var _stylesCss = require("./styles.css");
     email: "nileshmannaofficial@gmail.com",
     gitHub: "NileshManna",
     instagram: "weird_technologies",
-    linkedIn: "https://www.linkedin.com/in/nileshmanna",
+    linkedIn: "nileshmanna",
     medium: "https://nileshmanna.bio.link/",
     twitter: "",
     youTube: ""
