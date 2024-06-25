@@ -28766,29 +28766,64 @@ const imageAltText = "desktop with books and laptop";
         url: "https://mvp.microsoft.com/enUS/studentambassadors/profile/f26cf0aa-6add-4da3-b434-af65154ab4b2"
     },
     {
-        title: "Become a Student Ambassador",
-        description: "Join the Microsoft Learn Student Ambassadors program to enhance your skills, connect with a global community, and lead initiatives that inspire others. As an ambassador, you will gain access to exclusive resources, mentorship, and opportunities to collaborate on impactful projects. Start your journey towards becoming a tech leader today.",
-        url: "https://learn.microsoft.com/training/student-hub/become-a-student-ambassador?wt.mc_id=studentamb_252792"
+        title: "Azure.Microsoft.com",
+        description: "Discover a wide range of cloud services and solutions offered by Microsoft Azure. From computing and networking to databases and AI, Azure provides the tools you need to build, manage, and deploy applications on a global scale.",
+        url: "https://azure.microsoft.com?wt.mc_id=studentamb_252792"
     },
     {
-        title: "Azure login",
-        description: "Access your Azure account to manage cloud services, monitor applications, and leverage powerful tools for development and deployment. The Azure login portal provides a seamless entry point to the full suite of Azure resources, enabling efficient cloud management and innovation.",
-        url: "https://azure.microsoft.com?wt.mc_id=studentamb_252792"
+        title: "Cloudblogs.Microsoft.com",
+        description: "Description: Stay informed with the latest news and insights on Microsoft's cloud technologies. Explore blog posts covering innovations, best practices, and industry trends to help you maximize your cloud solutions.",
+        url: "https://www.microsoft.com/microsoft-cloud/blog?wt.mc_id=studentamb_252792"
+    },
+    {
+        title: "Code.Visualstudio.com",
+        description: "Access comprehensive documentation and resources for Visual Studio Code, a powerful and versatile code editor. Find extensions, tips, and tutorials to enhance your coding experience.",
+        url: "https://code.visualstudio.com?wt.mc_id=studentamb_252792"
+    },
+    {
+        title: "Visual Studio Code Documentation",
+        description: "Explore detailed guides and tutorials designed to help you make the most of Visual Studio Code. Learn about features, extensions, and integrations to streamline your development workflow.",
+        url: "https://code.visualstudio.com/docs?wt.mc_id=studentamb_252792"
+    },
+    {
+        title: "Devblogs.Microsoft.com",
+        description: "Dive into technical articles and content crafted for developers by Microsoft experts. Get insights into development tools, frameworks, and best practices to enhance your projects.",
+        url: "https://devblogs.microsoft.com?wt.mc_id=studentamb_252792"
+    },
+    {
+        title: "Learn.Microsoft.com",
+        description: "Boost your skills with interactive learning paths and certifications from Microsoft. Whether you're a beginner or an expert, find resources to advance your knowledge and career.",
+        url: "https://learn.microsoft.com?wt.mc_id=studentamb_252792"
+    },
+    {
+        title: "Social.Msdn.Microsoft.com",
+        description: "Engage with a community of developers on Microsoft's MSDN platform. Share experiences, ask questions, and collaborate with peers to solve technical challenges.",
+        url: "https://learn.microsoft.com?wt.mc_id=studentamb_252792"
+    },
+    {
+        title: "Social.Technet.Microsoft.com",
+        description: "Connect with IT professionals and share your expertise on TechNet. Participate in discussions, find solutions, and contribute to a wealth of technical knowledge.",
+        url: "https://learn.microsoft.com?wt.mc_id=studentamb_252792"
+    },
+    {
+        title: "Startups.Microsoft.com",
+        description: "Learn how Microsoft supports startups with access to tools, resources, and mentorship. Discover programs designed to help startups innovate and scale their businesses.",
+        url: "https://www.microsoft.com/startups?wt.mc_id=studentamb_252792"
+    },
+    {
+        title: "Techcommunity.Microsoft.com",
+        description: "Join the Microsoft Tech Community to engage in discussions, get expert advice, and share your knowledge. Connect with professionals across various fields to collaborate and learn.",
+        url: "https://techcommunity.microsoft.com?wt.mc_id=studentamb_252792"
+    },
+    {
+        title: "Microsoft.com/Startups",
+        description: "Explore Microsoft's initiatives to support startup companies through resources, tools, and programs. Learn how to leverage Microsoft's ecosystem to accelerate your startup's growth.",
+        url: "https://www.microsoft.com/startups?wt.mc_id=studentamb_252792"
     },
     {
         title: "GitHub Codespaces and github.dev",
         description: "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
         url: "https://www.youtube.com/watch?v=c3hHhRME_XI"
-    },
-    {
-        title: "Resources for Students",
-        description: "Explore a wealth of resources tailored for students on the Microsoft Azure platform. Access tools, tutorials, and projects designed to enhance your technical skills and support your learning journey. Dive into the GitHub tab for collaborative coding opportunities and stay updated with the latest in Azure innovations. Empower your education and career with these invaluable resources.",
-        url: "https://azure.microsoft.com/resources/students/?activetab=pivot:githubtab/&wt.mc_id=studentamb_252792"
-    },
-    {
-        title: "Microsoft Cloud Blog",
-        description: "Stay informed with the latest insights, updates, and best practices in cloud technology through the Microsoft Cloud Blog. Discover articles from industry experts, explore innovative cloud solutions, and keep up with trends shaping the future of cloud computing. This blog is an essential resource for students and professionals eager to deepen their understanding of Microsoft's cloud ecosystem.",
-        url: "https://www.microsoft.com/microsoft-cloud/blog?wt.mc_id=studentamb_252792"
     }, 
 ];
 const Portfolio = ()=>{
@@ -28803,7 +28838,7 @@ const Portfolio = ()=>{
                 children: "Portfolio"
             }, void 0, false, {
                 fileName: "src/Components/Portfolio.jsx",
-                lineNumber: 75,
+                lineNumber: 116,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -28828,12 +28863,12 @@ const Portfolio = ()=>{
                             alt: imageAltText
                         }, void 0, false, {
                             fileName: "src/Components/Portfolio.jsx",
-                            lineNumber: 78,
+                            lineNumber: 119,
                             columnNumber: 11
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/Components/Portfolio.jsx",
-                        lineNumber: 77,
+                        lineNumber: 118,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -28852,12 +28887,12 @@ const Portfolio = ()=>{
                                             children: project.title
                                         }, void 0, false, {
                                             fileName: "src/Components/Portfolio.jsx",
-                                            lineNumber: 88,
+                                            lineNumber: 129,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/Components/Portfolio.jsx",
-                                        lineNumber: 87,
+                                        lineNumber: 128,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -28865,30 +28900,30 @@ const Portfolio = ()=>{
                                         children: project.description
                                     }, void 0, false, {
                                         fileName: "src/Components/Portfolio.jsx",
-                                        lineNumber: 90,
+                                        lineNumber: 131,
                                         columnNumber: 15
                                     }, undefined)
                                 ]
                             }, project.title, true, {
                                 fileName: "src/Components/Portfolio.jsx",
-                                lineNumber: 86,
+                                lineNumber: 127,
                                 columnNumber: 13
                             }, undefined))
                     }, void 0, false, {
                         fileName: "src/Components/Portfolio.jsx",
-                        lineNumber: 84,
+                        lineNumber: 125,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/Components/Portfolio.jsx",
-                lineNumber: 76,
+                lineNumber: 117,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/Components/Portfolio.jsx",
-        lineNumber: 74,
+        lineNumber: 115,
         columnNumber: 5
     }, undefined);
 };
@@ -28902,7 +28937,7 @@ $RefreshReg$(_c, "Portfolio");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/design-desk.jpeg":"jSSP3","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"jSSP3":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/design-desk.jpeg":"jSSP3"}],"jSSP3":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "design-desk.df4cd0cf.jpeg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"lW6qc":[function() {},{}]},["1xC6H","ShInH","8lqZg"], "8lqZg", "parcelRequire6158")
