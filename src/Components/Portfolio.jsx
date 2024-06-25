@@ -40,13 +40,13 @@ const projectList = [
     title: "Become a Student Ambassador",
     description:
       "Join the Microsoft Learn Student Ambassadors program to enhance your skills, connect with a global community, and lead initiatives that inspire others. As an ambassador, you will gain access to exclusive resources, mentorship, and opportunities to collaborate on impactful projects. Start your journey towards becoming a tech leader today.",
-    url: "https://learn.microsoft.com/training/student-hub/become-a-student-ambassador/?wt.mc_id=studentamb_252792",
+    url: "https://learn.microsoft.com/training/student-hub/become-a-student-ambassador?wt.mc_id=studentamb_252792",
   },
   {
     title: "Azure login",
     description:
       "Access your Azure account to manage cloud services, monitor applications, and leverage powerful tools for development and deployment. The Azure login portal provides a seamless entry point to the full suite of Azure resources, enabling efficient cloud management and innovation.",
-    url: "https://azure.microsoft.com/?wt.mc_id=studentamb_252792",
+    url: "https://azure.microsoft.com?wt.mc_id=studentamb_252792",
   },
   {
     title: "GitHub Codespaces and github.dev",
@@ -58,13 +58,13 @@ const projectList = [
     title: "Resources for Students",
     description:
       "Explore a wealth of resources tailored for students on the Microsoft Azure platform. Access tools, tutorials, and projects designed to enhance your technical skills and support your learning journey. Dive into the GitHub tab for collaborative coding opportunities and stay updated with the latest in Azure innovations. Empower your education and career with these invaluable resources.",
-    url: "https://azure.microsoft.com/resources/students/?activetab=pivot:githubtab/?wt.mc_id=studentamb_252792",
+    url: "https://azure.microsoft.com/resources/students/?activetab=pivot:githubtab/&wt.mc_id=studentamb_252792",
   },
   {
     title: "Microsoft Cloud Blog",
     description:
       "Stay informed with the latest insights, updates, and best practices in cloud technology through the Microsoft Cloud Blog. Discover articles from industry experts, explore innovative cloud solutions, and keep up with trends shaping the future of cloud computing. This blog is an essential resource for students and professionals eager to deepen their understanding of Microsoft's cloud ecosystem.",
-    url: "https://www.microsoft.com/microsoft-cloud/blog/?wt.mc_id=studentamb_252792",
+    url: "https://www.microsoft.com/microsoft-cloud/blog?wt.mc_id=studentamb_252792",
   },
   
 ];
